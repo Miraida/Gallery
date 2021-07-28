@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="image">фотографии</string>
+    <string name="select_image">Выбор фотографий</string>
+    <string name="gallery_fragment">GalleryFragment</string>
+    <string name="ready">Готово</string>
+    <string name="selected_images">Выбрано %1$d фотографии</string>
+    <string name="selected_image">Выбрано 1 фотография</string>
+    <string name="images"> фотографии</string>
+    <string name="back">Back</string>
+</resources>
